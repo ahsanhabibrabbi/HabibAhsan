@@ -1,0 +1,7 @@
+<?php
+
+	$vsriable = 12;
+	echo $variable;
+
+
+?>
