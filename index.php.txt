@@ -1,6 +1,6 @@
 <?php
 
-	$vsriable = 12;
+	$vsriable = 27;
 	echo $variable;
 
 	//this is a new line
